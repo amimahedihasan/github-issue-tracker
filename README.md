@@ -1,9 +1,9 @@
 ## 👤 Author
 **Md. Mahedi Hasan**
 ## 🔗 Project Links
-* **Live Site:** [Click Here to View Live]()
-* **Repository:** [View Code on GitHub]()
-* **Repository:** [Click Here to View Auther Linkdin Profile](https://github.com/amimahedihasan/github-issue-tracker.git)
+* **Live Site:** [Click Here to View Live](https://amimahedihasan.github.io/github-issue-tracker/)
+* **Repository:** [View Code on GitHub](https://github.com/amimahedihasan/github-issue-tracker.git)
+* **linkdin Profile:** [Click Here to View Auther Linkdin Profile](https://www.linkedin.com/in/md-mahedi-hasan-digital-marketing/)
 
 ## 💡 JavaScript Interview Essentials Question Answer:
 
